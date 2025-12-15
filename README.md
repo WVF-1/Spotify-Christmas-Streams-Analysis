@@ -16,4 +16,5 @@ The dataset contains weekly Spotify streaming data for popular Christmas songs f
 - Week of year
 - Calendar year
 The analysis focuses on weeks 46–52 to capture the core Christmas listening period.
-You may view the dataset here [Kaggle Dataset]([https://pages.github.com/](https://www.kaggle.com/datasets/jonassouza872/christmas-hits-daily-streaming-history-2017-2025?utm_source=chatgpt.com)).
+You may view the dataset here: [Kaggle Dataset](https://www.kaggle.com/datasets/jonassouza872/christmas-hits-daily-streaming-history-2017-2025).
+
