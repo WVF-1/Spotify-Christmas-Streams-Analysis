@@ -67,7 +67,7 @@ This scenario sweep functions as a conceptual slider, allowing readers to observ
 - Scenario-based modeling provides deeper insight than point forecasts alone
 
 ## Tools and Libraries
--Python
+- Python
   - pandas
   - NumPy
   - matplotlib
